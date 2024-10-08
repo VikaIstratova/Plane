@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\ACER\Desktop\Lab02\bin\Debug\Lab02.exe
+C:\Users\ACER\Desktop\Lab02\bin\Debug\Lab02.pdb
+C:\Users\ACER\Desktop\Lab02\bin\Debug\Plane2.dll
+C:\Users\ACER\Desktop\Lab02\bin\Debug\Plane2.pdb
+C:\Users\ACER\Desktop\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Lab02\obj\Debug\Lab02.csproj.CopyComplete
+C:\Users\ACER\Desktop\Lab02\obj\Debug\Lab02.exe
+C:\Users\ACER\Desktop\Lab02\obj\Debug\Lab02.pdb
