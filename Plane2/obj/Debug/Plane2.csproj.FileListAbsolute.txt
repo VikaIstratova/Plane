@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\Plane2\bin\Debug\Plane2.dll
+C:\Users\ACER\Desktop\Plane2\bin\Debug\Plane2.pdb
+C:\Users\ACER\Desktop\Plane2\obj\Debug\Plane2.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Plane2\obj\Debug\Plane2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Plane2\obj\Debug\Plane2.dll
+C:\Users\ACER\Desktop\Plane2\obj\Debug\Plane2.pdb
