@@ -1,8 +1,14 @@
-﻿namespace Plane
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Plane2
 {
     public class Plane
     {
-
+        
         public string Model;
         public string Producer;
         public int Year;
@@ -27,4 +33,4 @@
         }
 
     }
-}
+    }
